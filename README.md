@@ -60,9 +60,11 @@ including Twitter, Instagram, Facebook, and TikTok. ]
 
 
 ### Atheltic
-- [Service 1]
-- [Service 2]
-- [Service 3]
+- [• Saint Anselm College Hawks (NCAA Division 2 football), Defensive Back: August 2020 to present:
+requires 40+ hours/week in practice, training, travel, and games and provides training in time
+management, effective communication, and conflict resolution.]
+- [During my high school football career, I dedicated countless hours to the rigorous training, relentless practice sessions, and unwavering commitment to my team. As a [position], I embraced the challenges on the field with determination and a passion for the game. Whether it was scoring crucial touchdowns, making pivotal tackles, or contributing to the team's strategic plays, I took pride in every moment. The camaraderie forged with my teammates and the valuable lessons learned through victories and defeats shaped not only my athletic prowess but also my character. The memories of Friday night lights, the cheers of the crowd, and the bonds formed with my fellow players remain etched in my heart, serving as a testament to the resilience and teamwork that defined my high school football journey. I finished my high school career with over 100 tackles, 3 interceptions, 8 touchdowns, and 5 fumble recoveries.]
+- [My youth career playing for the Severn Seminoles was an unforgettable chapter that laid the foundation for my love of football. Representing the Seminoles instilled in me a sense of pride and belonging as I donned the team colors with enthusiasm. Whether it was the exhilarating victories or the character-building defeats, each game was a stepping stone in my development as a player and a teammate. The coaching staff's guidance and the unwavering support of my fellow Seminoles fostered a tight-knit community where I not only honed my skills on the field but also forged lifelong friendships. From the cheers of the sidelines to the post-game celebrations, my time with the Severn Seminoles was more than just a youth football experience—it was a journey that shaped my passion for the game and left me with cherished memories that continue to resonate with me today.]
 
 
 
