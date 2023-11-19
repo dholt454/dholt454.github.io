@@ -21,8 +21,26 @@ Shirley Povich Summer program in Sports Journalism at the Philip Merrill School 
 Maryland: July 2018. This program provided project-based learning about all aspects of the sports journalism
 field. Instructors included professionals working in sports journalism from the Baltimore Sun, NBC Sports
 Washington, USA Today, and ESPN.]
-- [Feature 2]
-- [Feature 3]
+- [Internships for course-credit at Saint Anselm College: Internships for course credit at Saint Anselm College
+involve participation in pre-professional training on topics including negotiation, learning from mistakes on the
+job, transferable skills, financial literacy, and work-life balance.
+College Communications and Marketing: Marketing intern, August 2022 – December 2023.
+• Provided support to the CCM department promotion of college events by assisting with department
+correspondence and with the creation of print products, including fliers, and by writing content for the
+college Instagram and Tik Tok accounts. Sample: “Anselmians Come Together in November to Honor
+Those Who Have Passed Away”: https://tinyurl.com/yf6k9wt9
+• Mentoring by department staff included training leading to interns’ independent pitches for news
+stories, photos, and videos for web and print sources
+Fr. Jonathan Center for Intercultural Learning: Social Media intern, August 2021 – December 2022.
+• Responsibilities included content creation for social media; development and implementation of
+campaigns directed at alumni; planning Intercultural Center events and posting about them on the
+Center’s Instagram and Tik Tok accounts; and participation in weekly staff meetings.]
+- [Work Experience
+Aloft Hotel, Linthicum Heights, MD: Front desk associate, June 2023-August 2023. Responsibilities included
+checking guests in, navigating hotel software systems, answering guests questions and concerns, and providing
+good customer service.
+Relevant skills include knowledge of Microsoft Word, PowerPoint, Google Docs/Slides, and social media,
+including Twitter, Instagram, Facebook, and TikTok. ]
 
 
 
