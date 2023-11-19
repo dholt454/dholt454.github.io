@@ -1,21 +1,21 @@
-# [Your Website Name]
+# [dholt454.github.io]
 
-## Welcome to [Your Website Name]!
+## Welcome to [David Holt's Portfolio]!
 
 ### About Us
-[Provide a brief introduction to your website and its purpose.]
+[This is David Holt's Portfolio. All information about my academic, atheletic, and business career. ]
 
-### Features
+### Academic
 - [Feature 1]
 - [Feature 2]
 - [Feature 3]
 
-### Services
+### Atheltic
 - [Service 1]
 - [Service 2]
 - [Service 3]
 
-### How It Works
+### Business 
 1. [Step 1]
 2. [Step 2]
 3. [Step 3]
