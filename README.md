@@ -3,7 +3,7 @@
 ## About
 <div style="background-color: #f0f0f0; padding: 10px; color: #ff0000;">
 
-<!-- Welcome to my website! Dive into the enchanting world of dolphins and explore their fascinating lives. Navigate through the pages to uncover the wonders of these intelligent marine beings. -->
+## <!-- Welcome to my website! Dive into the enchanting world of dolphins and explore their fascinating lives. Navigate through the pages to uncover the wonders of these intelligent marine beings. -->
 
 </div>
 
