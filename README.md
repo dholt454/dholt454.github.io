@@ -40,7 +40,7 @@ Learn about the conservation status of various dolphin species and the efforts i
 
 ![Dolphin Behavior](url-to-dolphin-behavior-image)
 
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #add8e6; padding: 10px;">
 
 ## Social Structures
 Dolphins are highly social creatures with complex social structures. Explore how they form pods and communicate with each other using a sophisticated system of clicks, whistles, and body language.
@@ -57,7 +57,7 @@ Discover the remarkable intelligence of dolphins as we explore their problem-sol
 
 ![Dolphin Conservation](url-to-dolphin-conservation-image)
 
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #add8e6; padding: 10px;">
 
 ## Human Impact
 Explore the various challenges that dolphins face due to human activities, such as pollution, habitat destruction, and accidental entanglement in fishing gear.
