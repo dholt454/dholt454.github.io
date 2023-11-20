@@ -18,12 +18,17 @@ Welcome to my website! Dive into the enchanting world of dolphins and explore th
 Watch this captivating video showcasing the playful antics of dolphins in their natural habitat!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
+
 # Dolphin Species
 
 ![Dolphin Species](url-to-dolphin-species-image)
 
+<div style="background-color: #f0f0f0; padding: 10px;">
+
 ## Introduction
 Dolphins come in various species, each with its own unique characteristics. Explore the diverse world of dolphins, from the bottlenose dolphins often seen near shores to the acrobatic spinner dolphins in tropical waters.
+
+</div>
 
 ## Common Traits
 Discover the common traits shared by different dolphin species, including their playful nature, exceptional intelligence, and intricate communication methods.
@@ -35,8 +40,12 @@ Learn about the conservation status of various dolphin species and the efforts i
 
 ![Dolphin Behavior](url-to-dolphin-behavior-image)
 
+<div style="background-color: #f0f0f0; padding: 10px;">
+
 ## Social Structures
 Dolphins are highly social creatures with complex social structures. Explore how they form pods and communicate with each other using a sophisticated system of clicks, whistles, and body language.
+
+</div>
 
 ## Playful Antics
 Dive into the playful world of dolphins and witness their acrobatic displays, surfing on waves, and engaging in interactive behaviors. Their joyful antics are a testament to their vibrant and spirited nature.
@@ -48,8 +57,12 @@ Discover the remarkable intelligence of dolphins as we explore their problem-sol
 
 ![Dolphin Conservation](url-to-dolphin-conservation-image)
 
+<div style="background-color: #f0f0f0; padding: 10px;">
+
 ## Human Impact
 Explore the various challenges that dolphins face due to human activities, such as pollution, habitat destruction, and accidental entanglement in fishing gear.
+
+</div>
 
 ## Conservation Efforts
 Learn about the ongoing conservation efforts aimed at protecting dolphins and their habitats. From marine protected areas to responsible tourism practices, discover how individuals and organizations are making a positive impact.
