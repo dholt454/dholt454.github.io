@@ -23,7 +23,7 @@ Watch this captivating video showcasing the playful antics of dolphins in their 
 
 ![Dolphin Species](url-to-dolphin-species-image)
 
-<div style="background-color: #f0f0f0; padding: 10px;">
+<div style="background-color: #add8e6; padding: 10px;">
 
 ## Introduction
 Dolphins come in various species, each with its own unique characteristics. Explore the diverse world of dolphins, from the bottlenose dolphins often seen near shores to the acrobatic spinner dolphins in tropical waters.
