@@ -1,7 +1,3 @@
-# theme: jekyll-theme-Cayman
-
-
-
 # [dholt454.github.io]
 
 ## Welcome to [David Holt's Portfolio]!
@@ -129,3 +125,10 @@ Connect with us on:
 - [Instagram](#)
 
 Thank you for visiting [Your Website Name]!
+
+
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
