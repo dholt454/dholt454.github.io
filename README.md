@@ -26,8 +26,8 @@ Watch this captivating video showcasing the playful antics of dolphins in their 
 
 # Dolphin Species
 
-![Dolphin Species]([url-to-dolphin-species-image](https://images.app.goo.gl/pqP7TucK7wnAr8m76))
 
+![Dolphin Species](https://images.app.goo.gl/pqP7TucK7wnAr8m76)
 <div style="background-color: #add8e6; padding: 10px;">
 
 ## Introduction
@@ -43,7 +43,7 @@ Learn about the conservation status of various dolphin species and the efforts i
 
 # Dolphin Behavior
 
-![Dolphin Behavior]([url-to-dolphin-behavior-image](https://images.app.goo.gl/xG8dAeuxeLUDzsbj9))
+![Dolphin Behavior]([[url-to-dolphin-behavior-image](https://images.app.goo.gl/pqP7TucK7wnAr8m76)]
 
 <div style="background-color: #add8e6; padding: 10px;">
 
