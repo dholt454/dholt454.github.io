@@ -43,7 +43,7 @@ Learn about the conservation status of various dolphin species and the efforts i
 
 # Dolphin Behavior
 
-![Dolphin Behavior]([[url-to-dolphin-behavior-image](https://images.app.goo.gl/pqP7TucK7wnAr8m76)]
+![Dolphin Behavior](https://images.app.goo.gl/pqP7TucK7wnAr8m76)]
 
 <div style="background-color: #add8e6; padding: 10px;">
 
@@ -60,7 +60,7 @@ Discover the remarkable intelligence of dolphins as we explore their problem-sol
 
 # Conservation
 
-![Dolphin Conservation]([url-to-dolphin-conservation-image](https://images.app.goo.gl/bi4yhRA4zTRZwMMw7))
+![Dolphin Conservation](https://images.app.goo.gl/bi4yhRA4zTRZwMMw7))
 
 <div style="background-color: #add8e6; padding: 10px;">
 
