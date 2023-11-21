@@ -26,7 +26,8 @@ Watch this captivating video showcasing the playful antics of dolphins in their 
 
 # Dolphin Species
 
-![Dolphin Species](https://images.app.goo.gl/rXWvVwy4LvXBB2ns6)
+![Dolphin Species](https://github.com/dholt454/dholt454.github.io/assets/151464023/f0a5b7e8-d81c-4c90-b275-9fc933ea886f)
+
 
 <div style="background-color: #add8e6; padding: 10px;">
 
