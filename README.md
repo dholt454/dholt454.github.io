@@ -21,7 +21,7 @@
 ## Embedded Video
 Watch this captivating video showcasing the playful antics of dolphins in their natural habitat!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y50NwoKDeAE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/Y50NwoKDeAE?si=nRnpA5NMgR14h-vz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe>
 
 # Dolphin Species
 
