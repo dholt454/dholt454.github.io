@@ -44,7 +44,8 @@ Learn about the conservation status of various dolphin species and the efforts i
 
 # Dolphin Behavior
 
-![Dolphin Behavior](https://images.app.goo.gl/hXxcnT9ANvPZy2fV8)
+![Dolphin Behavior](![image](https://github.com/dholt454/dholt454.github.io/assets/151464023/a7fcbce9-f829-4ee6-bda8-812e039c9030))
+
 
 
 <div style="background-color: #add8e6; padding: 10px;">
